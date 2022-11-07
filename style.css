@@ -2,3 +2,17 @@ h2 {
     color:red;
     font-size: 2em;
 }
+p{
+    color: rgb(245, 67, 67);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#identified {
+    background-color: skyblue;
+}
+span.classy {
+    color:blue
+}
+#box {
+    border: 1px solid;
+    padding: 1.5em; 
+}
