@@ -1,0 +1,16 @@
+
+div.datos {
+    border: 4px dotted red;
+    border-left: transparent;
+    border-right: transparent;
+}
+h2 {
+    border: 2px solid grey;
+}
+div.contenido {
+    border: 2px dashed green;
+    border-radius: 1px;
+}
+h1 {
+    border-bottom: 2px solid blue;
+}
