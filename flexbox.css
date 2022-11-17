@@ -1,0 +1,19 @@
+.contenedor-flex {
+    display: flex;
+    flex-direction: row;
+    background-color: beige;
+}
+
+.item {
+    background-color: white;
+    border: 3px;
+    border-color: black;
+}
+
+.parrafo1 {
+    background-color: white;
+}
+
+.parrafo2 {
+    background-color: white;
+}
