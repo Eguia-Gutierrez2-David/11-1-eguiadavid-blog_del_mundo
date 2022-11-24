@@ -6,14 +6,22 @@
 
 .item {
     background-color: white;
-    border: 3px;
-    border-color: black;
+    color: black;
+    margin: 1px;
+    border: solid bisque;
 }
 
 .parrafo1 {
     background-color: white;
+    color: black;
+    margin: 5px;
+    border: solid greenyellow;
 }
 
 .parrafo2 {
     background-color: white;
+    color: rgb(250, 11, 11);
+    margin: 1px;
+    border: purple;
+    text-align: center;
 }
