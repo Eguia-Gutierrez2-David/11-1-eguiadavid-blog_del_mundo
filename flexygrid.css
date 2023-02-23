@@ -1,12 +1,52 @@
-.flex1 {
-    display: flex;
-    flex-direction: row;
-    background-color: beige;
+.grid {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 100%;
 }
 
-.flex2 {
+.inv {
     display: flex;
     flex-direction: column;
-    background-color: beige;
-    width: 300px;
+    align-content: center;
+    background-color: rgb(255, 255, 94);
+    text-align: center;
+    border-radius: 10px;
+    border: solid yellow;
+
+}
+
+.item1 {
+    margin: 5px;
+    color: black;
+    text-align: center;
+    border-bottom: solid white;
+    padding-bottom: 5px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    border: solid blue;
+}
+
+.item2 {
+    margin: 5px;
+    color: black;
+    text-align: center;
+    border-bottom: solid white;
+    padding-bottom: 5px;
+    background-color: rgb(253, 104, 104);
+    border-radius: 10px;
+    border: solid red;
+}
+
+.titulos {
+    font-size: 50px;
+}
+
+.bi {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    background-color: rgb(255, 94, 220);
+    text-align: center;
+    border-radius: 10px;
+    border: solid purple;
 }
